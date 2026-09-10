@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-16)
+## Unreleased (2026-09-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d083c3f`](https://github.com/stdlib-js/stdlib/commit/d083c3ff225ae0139f390869d1eb89c84951e013) - **bench:** bound seed growth in `random/base/*` factory benchmarks [(#15130)](https://github.com/stdlib-js/stdlib/pull/15130) _(by Philipp Burckhardt)_
 -   [`cd16b93`](https://github.com/stdlib-js/stdlib/commit/cd16b9368fd2b6795d3b12bbfcb770abcef5ab15) - **docs:** update related packages sections [(#13766)](https://github.com/stdlib-js/stdlib/pull/13766) _(by stdlib-bot)_
 -   [`46881ca`](https://github.com/stdlib-js/stdlib/commit/46881ca28f2b7e02fafe36c3f436636015edac59) - **bench:** refactor to use string interpolation in`random/base/geometric` [(#10229)](https://github.com/stdlib-js/stdlib/pull/10229) _(by Shubham)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   Shubham
 
 </section>
